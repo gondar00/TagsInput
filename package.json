@@ -1,0 +1,23 @@
+{
+  "name": "taginput",
+  "version": "1.0.0",
+  "description": "Creating a tag input using angular 1.5.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gondar00/TagsInput.git"
+  },
+  "keywords": [
+    "Tag",
+    "Input"
+  ],
+  "author": "Gandharv Kumar Garg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gondar00/TagsInput/issues"
+  },
+  "homepage": "https://github.com/gondar00/TagsInput#readme"
+}
